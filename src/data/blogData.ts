@@ -131,8 +131,8 @@ export const blogPosts: BlogPost[] = [
     author: authors.sara,
     publishDate: 'Dec 05, 2025',
     readingTime: '5 min',
-    featuredImage: 'https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&q=80&w=1200&h=675',
-    thumbnailImage: 'https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&q=80&w=600&h=400',
+    featuredImage: 'https://i.postimg.cc/1tttNjtJ/imsha.jpg?auto=format&fit=crop&q=80&w=1200&h=675',
+    thumbnailImage: 'https://i.postimg.cc/1tttNjtJ/imsha.jpg?auto=format&fit=crop&q=80&w=600&h=400',
     videoPlaceholder: {
       type: 'local',
       url: 'https://www.w3schools.com/html/mov_bbb.mp4',
