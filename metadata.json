@@ -1,0 +1,6 @@
+{
+  "name": "Leak X Viral",
+  "description": "The ultimate portal for trending viral videos, leaked footage, breaking internet stories, and forensic truth reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
