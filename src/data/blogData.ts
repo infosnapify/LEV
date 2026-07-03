@@ -379,17 +379,17 @@ export const blogPosts: BlogPost[] = [
     author: authors.sara,
     publishDate: 'Nov 30, 2025',
     readingTime: '5 min',
-    featuredImage: 'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&q=80&w=1200&h=675',
-    thumbnailImage: 'https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&q=80&w=600&h=400',
+    featuredImage: 'https://i.postimg.cc/vZ4Ls0bF/Untitled-design-136.avif?auto=format&fit=crop&q=80&w=1200&h=675',
+    thumbnailImage: 'https://i.postimg.cc/vZ4Ls0bF/Untitled-design-136.avif?auto=format&fit=crop&q=80&w=600&h=400',
     videoPlaceholder: {
       type: 'local',
       url: 'https://www.w3schools.com/html/mov_bbb.mp4',
       title: 'Malware Link Forensic Analysis'
     },
     gallery: [
-      'https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&q=80&w=800&h=500',
-      'https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&q=80&w=800&h=500',
-      'https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&q=80&w=800&h=500'
+      'https://i.postimg.cc/50bC6gd5/OIP.jpg?auto=format&fit=crop&q=80&w=800&h=500',
+      'https://i.postimg.cc/fLzVwbmx/6b5f5868f0585cf2cf97f0fdb0f57f4ftplv-tiktokx-cropcenter-1080-1080-696x696.jpg?auto=format&fit=crop&q=80&w=800&h=500',
+      'https://i.postimg.cc/fLzVwbmx/6b5f5868f0585cf2cf97f0fdb0f57f4ftplv-tiktokx-cropcenter-1080-1080-696x696.jpg?auto=format&fit=crop&q=80&w=800&h=500'
     ],
     tags: ['Alina Amir', 'Fake Links', 'Digital Security', 'Virus Prevention'],
     trending: false,
@@ -440,17 +440,17 @@ export const blogPosts: BlogPost[] = [
     author: authors.kamran,
     publishDate: 'Nov 29, 2025',
     readingTime: '5 min',
-    featuredImage: 'https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&q=80&w=1200&h=675',
-    thumbnailImage: 'https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&q=80&w=600&h=400',
+    featuredImage: 'https://i.postimg.cc/3x9MsJrK/fatimajatoivideomain-1769182704.webp?auto=format&fit=crop&q=80&w=1200&h=675',
+    thumbnailImage: 'https://i.postimg.cc/3x9MsJrK/fatimajatoivideomain-1769182704.webp?auto=format&fit=crop&q=80&w=600&h=400',
     videoPlaceholder: {
       type: 'local',
       url: 'https://www.w3schools.com/html/mov_bbb.mp4',
       title: 'Trends & Cybersecurity Briefing'
     },
     gallery: [
-      'https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=800&h=500',
-      'https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&q=80&w=800&h=500',
-      'https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&q=80&w=800&h=500'
+      'https://i.postimg.cc/137C0gRY/OIP.webp?auto=format&fit=crop&q=80&w=800&h=500',
+      'https://i.postimg.cc/137C0gRY/OIP.webp?auto=format&fit=crop&q=80&w=800&h=500',
+      'https://i.postimg.cc/137C0gRY/OIP.webp?auto=format&fit=crop&q=80&w=800&h=500'
     ],
     tags: ['19-Minute Video', 'Viral Trend', 'Search Exploit', 'Adware Network'],
     trending: false,
@@ -501,17 +501,17 @@ export const blogPosts: BlogPost[] = [
     author: authors.kamran,
     publishDate: 'Dec 10, 2025',
     readingTime: '5 min',
-    featuredImage: 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&q=80&w=1200&h=675',
-    thumbnailImage: 'https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&q=80&w=600&h=400',
+    featuredImage: 'https://i.postimg.cc/vTxSDGdQ/19-minute-viral-video-shocks-internet-but-why-is-it-trending-news-304451-850x478.avif?auto=format&fit=crop&q=80&w=1200&h=675',
+    thumbnailImage: 'https://i.postimg.cc/vTxSDGdQ/19-minute-viral-video-shocks-internet-but-why-is-it-trending-news-304451-850x478.avif?auto=format&fit=crop&q=80&w=600&h=400',
     videoPlaceholder: {
       type: 'local',
       url: 'https://www.w3schools.com/html/mov_bbb.mp4',
       title: 'Liputan6 Forensic Investigative Presentation'
     },
     gallery: [
-      'https://images.unsplash.com/photo-1495020689067-958852a6565d?auto=format&fit=crop&q=80&w=800&h=500',
-      'https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&q=80&w=800&h=500',
-      'https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&q=80&w=800&h=500'
+      'https://i.postimg.cc/vTxSDGdQ/19-minute-viral-video-shocks-internet-but-why-is-it-trending-news-304451-850x478.avif?auto=format&fit=crop&q=80&w=800&h=500',
+      'https://i.postimg.cc/vTxSDGdQ/19-minute-viral-video-shocks-internet-but-why-is-it-trending-news-304451-850x478.avif?auto=format&fit=crop&q=80&w=800&h=500',
+      'https://i.postimg.cc/vTxSDGdQ/19-minute-viral-video-shocks-internet-but-why-is-it-trending-news-304451-850x478.avif?auto=format&fit=crop&q=80&w=800&h=500'
     ],
     tags: ['19-Minute Video', 'Liputan6', 'Indian Social Media', 'Fact Check'],
     trending: true,
