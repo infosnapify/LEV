@@ -139,9 +139,9 @@ export const blogPosts: BlogPost[] = [
       title: 'Digital Privacy & Security Warning'
     },
     gallery: [
-      'https://images.unsplash.com/photo-1546054454-aa26e2b734c7?auto=format&fit=crop&q=80&w=800&h=500',
-      'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80&w=800&h=500',
-      'https://images.unsplash.com/photo-1511162617213-7d7a39e9b1d7?auto=format&fit=crop&q=80&w=800&h=500'
+      'https://i.postimg.cc/Fzk00Rz4/Imsha-Rehman-1024x576.webp?auto=format&fit=crop&q=80&w=800&h=500',
+      'https://i.postimg.cc/rm09NgZx/Why-Do-Leaked-Tik-Tok-Videos-Keep-Trending-Impact-on-Pakistani-Youth-What-Needs-to-Change-750x375.webp?auto=format&fit=crop&q=80&w=800&h=500',
+      'https://i.postimg.cc/yYqLv4Hy/Imsha-Rehan-600x252.jpg?auto=format&fit=crop&q=80&w=800&h=500'
     ],
     tags: ['Imsha Rehman', 'TikTok Leak', 'Privacy', 'Social Backlash'],
     trending: true,
