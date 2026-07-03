@@ -192,17 +192,17 @@ export const blogPosts: BlogPost[] = [
     author: authors.zain,
     publishDate: 'Dec 02, 2025',
     readingTime: '4 min',
-    featuredImage: 'https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&q=80&w=1200&h=675',
-    thumbnailImage: 'https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&q=80&w=600&h=400',
+    featuredImage: 'https://i.postimg.cc/5N1wXxJs/Talha-Reviews-Wife-750x375.jpg?auto=format&fit=crop&q=80&w=1200&h=675',
+    thumbnailImage: 'https://i.postimg.cc/5N1wXxJs/Talha-Reviews-Wife-750x375.jpg?auto=format&fit=crop&q=80&w=600&h=400',
     videoPlaceholder: {
       type: 'local',
       url: 'https://www.w3schools.com/html/mov_bbb.mp4',
       title: 'Talha & Arooj Statement'
     },
     gallery: [
-      'https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?auto=format&fit=crop&q=80&w=800&h=500',
+      'https://i.postimg.cc/5N1wXxJs/Talha-Reviews-Wife-750x375.jpg?auto=format&fit=crop&q=80&w=800&h=500',
       'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&q=80&w=800&h=500',
-      'https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?auto=format&fit=crop&q=80&w=800&h=500'
+      'https://i.postimg.cc/5N1wXxJs/Talha-Reviews-Wife-750x375.jpg?auto=format&fit=crop&q=80&w=800&h=500'
     ],
     tags: ['Talha Reviews', 'Arooj Fatima', 'Statement', 'Deepfake Case'],
     trending: true,
